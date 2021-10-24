@@ -28,6 +28,8 @@ Connect with me:
 
 
 
- 📫 How to reach me: rodrigof3012@gmail.com
+ <p>📫 How to reach me: <a href="mailto:rodrigof3012@gmail.com">rodrigof3012@gmail.com</a></p>
+ 
+ 
 
   
