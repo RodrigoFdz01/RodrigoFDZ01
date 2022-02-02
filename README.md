@@ -30,7 +30,7 @@ Connect with me:
  <a href="https://www.linkedin.com/in/fernandezrodrigoin/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40" style="max-width: 100%;"></a>
 
 
- 🌱 I’m currently learning React 🤓💻
+ 🌱 I'm currently studying to specialize in: React.js. 🤓💻
  <br>
  <br>
  📫 How to reach me: <strong> <a href="mailto:rodrigof3012@gmail.com">rodrigof3012@gmail.com</a> <strong>
