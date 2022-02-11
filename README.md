@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Rodrigo
+I'm Frontend Developer 
 
 <!--
 **RodrigoFdz01/RodrigoFDZ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
