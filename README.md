@@ -24,6 +24,7 @@ Languages and Tools:
 
 Here you can check out my<a href="https://rodrigofdz-portfolio.vercel.app/" rel=""> Portfolio</a>
 <br>
+<br>
 Connect with me: <a href="https://www.linkedin.com/in/fernandezrodrigoin/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40" style="max-width: 100%;"></a>
 
 
