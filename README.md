@@ -24,7 +24,7 @@ Languages and Tools:
 
 <br>
 
- I love coding projects iin Vanilla JS.
+  I love coding projects in Vanilla JS.
  
  🌱 I'm getting better with React Js. and a little bit of Python 🤓💻.
  
