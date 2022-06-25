@@ -26,7 +26,7 @@ Languages and Tools:
 
   I love coding projects in Vanilla JS.
  
- 🌱 I'm getting better with React Js. and a little bit of Python 🤓💻.
+ 🌱 I'm getting better with React Js. and Node🤓💻.
  
 Connect with me: <a href="https://www.linkedin.com/in/fernandezrodrigoin/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40" style="max-width: 100%;"></a>
  <br>
