@@ -25,6 +25,9 @@ height="40" style="max-width: 100%;"> <img src="https://cdn.jsdelivr.net/gh/devi
 height="40" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" style="max-width: 100%;"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
+
 <br>
 
   I love coding projects in Vanilla JS.
