@@ -28,7 +28,7 @@ height="40" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/de
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
-
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
 <br>
  
  🌱 I'm getting better with React Js. and Node Js🤓💻.<br>
