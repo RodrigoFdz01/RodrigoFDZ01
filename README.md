@@ -31,9 +31,9 @@ height="40" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/de
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
 <br>
  
- 🌱 I'm getting better with React Js. and Node Js🤓💻.<br>
+ <!-- 🌱 I'm getting better with React Js. and Node Js🤓💻.<br>
  🌱 Also doing projects in Python 🐍 
- 
+ -->
 Connect with me: <a href="https://www.linkedin.com/in/fernandezrodrigoin/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40" style="max-width: 100%;"></a>
  <br>
  <br>
