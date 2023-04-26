@@ -25,7 +25,7 @@ Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 85%;"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="max-width: 100%;"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"
 height="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"
