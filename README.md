@@ -21,21 +21,10 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="max-width: 100%;"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"/><img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="max-width: 100%;"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"
-height="40" style="max-width: 100%;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"
-height="40" style="max-width: 100%;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
+height="40" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"
+height="40" style="max-width: 100%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" style="max-width: 100%;"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width = "40" height = "40" style="max-width: 100%;"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width = "40" height = "40" style="max-width: 100%;"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width = "40" height = "40" style="max-width: 100%;"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width = "40" height = "40" style="max-width: 100%;"/>
 <br>
  
  <!-- 🌱 I'm getting better with React Js. and Node Js🤓💻.<br>
